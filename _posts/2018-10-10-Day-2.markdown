@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day 2"
+date:   2018-10-10 10:58:58 -0500
+categories: code
+excerpt_separator: <!--more-->
+---
+Today I'll be writing some blog posts and filling in the blanks for some of the past few months of coding.  I am working on a Django e-commerce app at night and fixing some formatting issues on my blog during the day.  Hope it all works!  

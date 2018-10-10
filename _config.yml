@@ -18,17 +18,19 @@ email: slmahisekar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Chronicles of a learning journey in coding, business strategy, parenting, theology, life etc.  
   Hoping to document experiences and accomplishments as they come along.     
-
 baseurl: "/blog" # the subpath of your site, e.g. /blog
+excerpt_separator: ""
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mahisekar
-github_username:  smandekar1
-
+github_username:  smandekar
+linkedin_username: mahisek
+url-pretty: "mahisekar.com"
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

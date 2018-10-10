@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-10-09 16:58:58 -0500
-categories: jekyll update
+title:  "Today's Day One, A Day Late"
+date:   2018-10-08 10:58:58 -0500
+categories: code
+excerpt_separator: <!--more-->
 ---
+After thinking about starting a blog for several months, I finally thought it was a good idea and started one up.  It was supposed to be done by yesterday, but I had several issues getting the Jeckyll site up on `_github pages` I hope to be able to communicate some of the struggles and accomplishments that happen and perhaps some others can learn from it.  I'll just go ahead and leave the placeholder info for Jeckyll here as a reminder of where this whole thing started.  If you'd like to build your own blog, check it out.  The whole thing is free including hosting on githubpages.      
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
