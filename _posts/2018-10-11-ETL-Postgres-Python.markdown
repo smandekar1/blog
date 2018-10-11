@@ -9,7 +9,7 @@ After looking at an opportunity to work on ETL, I decided to go through a tutori
 
 What it does:  It takes 2 of the 3 tables from one server and puts them on another server.  It also checks if the tables already exists, and if it does then that table gets dropped.  
 
-{% highlight ruby &}
+{% highlight ruby %}
 #Simple Extract & Load Python Program
 
 
@@ -39,4 +39,4 @@ for t in sourceTables:
     sourceDs = etl.fromdb(sourceConn, 'select * from %s' % (t[0]))
     etl.todb(sourceDs, targetConn, t[0], create=True, sample=10000)
 
-{% end highlight %}
+{% endhighlight %}
