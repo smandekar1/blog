@@ -41,4 +41,4 @@ for t in sourceTables:
 
 {% endhighlight %}
 
-{% include share-bar.html %}
+{% include share-buttons.html %}
