@@ -9,5 +9,4 @@ Today I'll be writing some blog posts and filling in the blanks for some of the 
 
 
   
-{% include share-buttons.html %}
   

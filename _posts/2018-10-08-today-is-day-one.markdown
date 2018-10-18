@@ -4,7 +4,6 @@ title:  "Today's Day One, A Day Late"
 date:   2018-10-08 10:58:58 -0500
 categories: code
 excerpt_separator: <!--more-->
-{% include share-bar.html %}
 ---
 After thinking about starting a blog for several months, I finally thought it was a good idea and started one up.  It was supposed to be done by yesterday, but I had several issues getting the Jeckyll site up on `_github pages` I hope to be able to communicate some of the struggles and accomplishments that happen and perhaps some others can learn from it.  I'll just go ahead and leave the placeholder info for Jeckyll here as a reminder of where this whole thing started.  If you'd like to build your own blog, check it out.  The whole thing is free including hosting on githubpages.      
 
@@ -30,4 +29,3 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 
-{% include share-buttons.html %}
