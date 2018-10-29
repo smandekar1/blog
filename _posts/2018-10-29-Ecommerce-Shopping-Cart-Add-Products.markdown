@@ -9,8 +9,8 @@ After going through this lengthy tutorial, I was able to get a working shopping 
 
 
 
-![My helpful screenshot](../../../../../images/Capture1.jpg)
+![My helpful screenshot](../../../../assets/Capture1.jpg)
 
-![My helpful screenshot](../../../../../images/Capture2.jpg)
+![My helpful screenshot](../../../../assets/Capture2.jpg)
 
 
