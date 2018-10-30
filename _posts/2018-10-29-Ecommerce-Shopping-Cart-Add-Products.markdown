@@ -9,8 +9,6 @@ After going through this lengthy tutorial, I was able to get a working shopping 
 
 
 
-![My helpful screenshot](../../../../assets/Capture1.jpg)
+![useful image]({{ site.url }}/assets/Capture1.jpg)
 
-![My helpful screenshot](../../../../assets/Capture2.jpg)
-
-
+![useful image]({{ site.url }}/assets/Capture2.jpg)
