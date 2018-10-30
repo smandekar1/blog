@@ -12,3 +12,8 @@ After going through this lengthy tutorial, I was able to get a working shopping 
 ![useful image]({{ site.url }}/assets/Capture1.jpg)
 
 ![useful image]({{ site.url }}/assets/Capture2.jpg)
+![useful image](https://raw.githubusercontent.com/smandekar1/blog/gh-pages/assets/Capture1.JPG)
+![useful image](https://raw.githubusercontent.com/smandekar1/blog/gh-pages/assets/Capture2.JPG)
+
+
+
