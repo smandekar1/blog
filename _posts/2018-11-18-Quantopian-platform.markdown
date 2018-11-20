@@ -10,21 +10,21 @@ excerpt_separator: <!--more-->
 
 **Summary**
 
- The model finds small cap equities that have dropped at least %8 during the previous trading day and holds them for 5 days.  The trading model beats the S&P 500 during some periods of time and can be used when the its relative performance has been poor.  It would not be effective if the strategy was implemented in all market environments.   
+ The model finds small cap equities that have dropped at least 8% during the previous trading day and holds them for 5 days.  The trading model beats the S&P 500 during some periods of time and can be used when the its relative performance has been poor.  It would not be effective if the strategy was implemented in all market environments.   
 
 **Strategy**
 
 1.  *Security Selection.* The trading model creates a pipeline of equities based on fundamental factors such as market capitilization.  Securities must have market capitalizations that are less than $1 billion and greater than $500 million.  The pipeline also screens for securities that are actually tradeable to investors.     
 
-2.  *Portfolio Leverage.* The model uses up to %30 leverage.  If the maximum portfolio leverage is reached, the model does not make additional purchases.  
+2.  *Portfolio Leverage.* The model uses up to 30% leverage.  If the maximum portfolio leverage is reached, the model does not make additional purchases.  
 
 3.  *Fill Prices*.  Price slippage is accounted for on the Quantopian platform.  Because limit prices are used, if an order is not able to be filled by the end of the day, it is cancelled.  
 
-4.  *Orders.*  If the security fell more than %8 in the previous trading day, a limit order is placed for that security at the previous day's closing price.  An allocation of %13 of the portfolio is made and and the position is completely closed after the 5 day period.   
+4.  *Orders.*  If the security fell more than 8% in the previous trading day, a limit order is placed for that security at the previous day's closing price.  An allocation of 13% of the portfolio is made and and the position is completely closed after the 5 day period.   
 
 **Performance**
 
-During a one year period the trading model returned %17 verses %29 for the S&P 500.  Overall the model does not perform better than the benchmark on a consistent basis.   
+During a one year period the trading model returned 17% verses 29% for the S&P 500.  Overall the model does not perform better than the benchmark on a consistent basis.   
 
 **Model Implementation**
 
