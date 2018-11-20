@@ -35,7 +35,7 @@ Here's the beginning of the chart indicating performance:
 
 
 
-![performanc chart](/assets/Quantopian.blog.shot.JPG)
+![performanc chart](/blog/assets/Quantopian.blog.shot.JPG)
 
 
 
