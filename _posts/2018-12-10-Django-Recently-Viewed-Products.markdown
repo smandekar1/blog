@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adding User Data About Viewed Products"
-date:   2018-10-22 14:58:58 -0500
+date:   2018-12-10 14:58:58 -0500
 categories: code
 excerpt_separator: <!--more-->
 ---
