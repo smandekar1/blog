@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quantopian Long Trading Model"
+title:  "Quantopian - Open Interest for Futures"
 date:   2018-11-27 14:58:58 -0500
 categories: code, finance
 excerpt_separator: <!--more-->
