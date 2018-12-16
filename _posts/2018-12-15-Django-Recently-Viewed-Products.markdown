@@ -27,7 +27,7 @@ He also encourages with this counsel:  "Accept the cross and you will find peace
 
 
 
-    *Heavenly Father, suffering may do awesome things -- but your know I cringe at suffering.  Help me to respond with courage.  Empower me to accept change as an opportunity to grow.*
+   *Heavenly Father, suffering may do awesome things -- but your know I cringe at suffering.  Help me to respond with courage.  Empower me to accept change as an opportunity to grow.*  
 
 
 
