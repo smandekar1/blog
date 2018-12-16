@@ -25,11 +25,11 @@ What, indeed, is God up to?  When we find ourselves trapped by health or job pro
 
 He also encourages with this counsel:  "Accept the cross and you will find peace even in the middle of turmoil."
 
-{% highlight ruby %}
 
-Heavenly Father, suffering may do awesome things -- but your know I cringe at suffering.  Help me to respond with courage.  Empower me to accept change as an opportunity to grow.
 
-{% endhighlight %}
+⋅⋅⋅*Heavenly Father, suffering may do awesome things -- but your know I cringe at suffering.  Help me to respond with courage.  Empower me to accept change as an opportunity to grow.*⋅⋅⋅
+
+
 
 My suffering was good for me, for it taught me to pay attention to your decrees.  Your instructions are more valuable to me that millions in gold and silver.  
 Psalm 119:71-72, NLT
