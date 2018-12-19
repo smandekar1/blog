@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 
 **Strategy**
 
-1.  *Security Selection.* The trading model creates a pipeline of equities based on fundamental factors such as market capitilization.  Securities must have market capitalizations that are less than $1 billion and greater than $500 million.  The pipeline also screens for securities that are actually tradeable to investors.     
+1.  *Security Selection.* The trading model creates a pipeline of equities based on fundamental factors such as market capitalization.  Securities must have market capitalizations that are less than $1 billion and greater than $500 million.  The pipeline also screens for securities that are actually tradeable to investors.     
 
 2.  *Portfolio Leverage.* The model uses up to 30% leverage.  If the maximum portfolio leverage is reached, the model does not make additional purchases.  
 
@@ -24,7 +24,7 @@ excerpt_separator: <!--more-->
 
 **Performance**
 
-During a one year period the trading model returned 17% verses 29% for the S&P 500.  Overall the model does not perform better than the benchmark on a consistent basis.   
+During a one year period, the trading model returned 17% versus 29% for the S&P 500.  Overall the model does not perform better than the benchmark on a consistent basis.   
 
 **Model Implementation**
 
