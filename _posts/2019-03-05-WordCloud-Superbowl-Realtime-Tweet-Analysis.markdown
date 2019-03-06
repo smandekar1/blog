@@ -8,7 +8,8 @@ excerpt_separator: <!--more-->
 
 ![useful image](https://raw.githubusercontent.com/smandekar1/blog/gh-pages/assets/word_helmet_edited_700.png)
 
-**Searchterm - "Tom Brady", Timeframe: 1st hour of Superbowl game** 
+**Searchterm - "Tom Brady", Timeframe: 1st hour of Superbowl game**  
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
 # Summary
@@ -25,17 +26,14 @@ Even with tools like Stopwords, a good amount of old fashion editing was still r
 
 # Requirements 
 
-Twitter API - with credentials
-
-matplotlib==3.0.2
-
-numpy==1.16.1<br>  
+Twitter API - with credentials  
+matplotlib==3.0.2  
+numpy==1.16.1    
 pandas==0.24.1  
 Pillow==5.4.1  
 searchtweets==1.7.4  
 stop-words==2018.7.23  
 tweet-parser==1.13.1  
-
 wordcloud==1.5.0
 
 
@@ -45,7 +43,7 @@ wordcloud==1.5.0
 
 ![useful image](https://raw.githubusercontent.com/smandekar1/blog/gh-pages/assets/graph.JPG)
 
-- some of the most common words from superbows tweets - oddball terms removed 
+some of the most common words from superbows tweets - oddball terms removed 
 
 
 # Sample tweets returned while Superbowl was being play
