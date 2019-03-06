@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 ![useful image](https://raw.githubusercontent.com/smandekar1/blog/gh-pages/assets/word_helmet_edited_700.png)
 
-**Searchterm - "Tom Brady", Timeframe: 1st hour of Superbowl game**  
+**Searchterm: "Tom Brady", Timeframe: 1st hour of Superbowl game**  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
@@ -39,7 +39,7 @@ wordcloud==1.5.0
 
 # Matplotlib
 
-*A graph of most common words tweets* 
+*A graph of most common words from tweets* 
 
 ![useful image](https://raw.githubusercontent.com/smandekar1/blog/gh-pages/assets/graph.JPG)
 
