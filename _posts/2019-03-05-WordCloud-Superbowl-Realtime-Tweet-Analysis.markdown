@@ -29,8 +29,8 @@ Twitter API - with credentials
 
 matplotlib==3.0.2
 
-numpy==1.16.1<br>
-pandas==0.24.1
+numpy==1.16.1<br>  
+pandas==0.24.1  
 Pillow==5.4.1  
 searchtweets==1.7.4  
 stop-words==2018.7.23  
