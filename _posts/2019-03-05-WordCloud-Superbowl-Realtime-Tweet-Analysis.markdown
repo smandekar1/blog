@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using Wordcloud & Twitter Api for Superbowl Realtime Tweet Analysis"
+title:  "Using Wordcloud & Twitter's Api for Realtime Superbowl Tweet Analysis"
 date:   2019-03-05 14:58:58 -0500
 categories: code
 excerpt_separator: <!--more-->
